@@ -1,0 +1,16 @@
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/PresentationEditor.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/Test.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/MyUI.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/util/CatalogDataProvider.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/TaskView.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/util/DependencyItem.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/util/FileSystemDataProvider.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/ConfigView.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/HelloServlet.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/web/SetupServlet.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/NewItemWindow.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/MainView.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/BaseView.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/PackageEditor.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/ui/DemoView.java
+/home/dmitry/scormbuilder/scormbuilder-web/src/main/java/ru/heroicrealm/scormbuilder/util/IEvtNewFolder.java

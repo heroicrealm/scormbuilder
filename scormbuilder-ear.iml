@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="javaeeApplication" name="JavaEE">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/scormbuilder-ear/target/application.xml" />
+        </descriptors>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/scormbuilder-ear/target/classes" />
+    <output-test url="file://$MODULE_DIR$/scormbuilder-ear/target/test-classes" />
+    <content url="file://$MODULE_DIR$/scormbuilder-ear">
+      <excludeFolder url="file://$MODULE_DIR$/scormbuilder-ear/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="scormbuilder-web" />
+    <orderEntry type="module" module-name="scormbuilder-ejb" />
+    <orderEntry type="library" name="Maven: org.apache.activemq:activemq-all:5.15.8" level="project" />
+  </component>
+</module>
